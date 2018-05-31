@@ -11,6 +11,7 @@ function gcode_vary_power()
 
 % Output: Gcode - X Y Z F S
 %test test
+% push change
 %% adjust parameters here
 char = 'C'; % cut method. D: Discrete. C: continuous.
 
