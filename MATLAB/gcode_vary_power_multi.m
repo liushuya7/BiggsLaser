@@ -10,8 +10,9 @@ function gcode_vary_power()
 %        height - focal plane (Z)
 
 % Output: Gcode - X Y Z F S
-%test test
-% push change
+
+% THIS IS A TEST COMMENT
+
 %% adjust parameters here
 char = 'C'; % cut method. D: Discrete. C: continuous.
 
