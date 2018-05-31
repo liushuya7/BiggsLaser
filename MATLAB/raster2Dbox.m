@@ -21,8 +21,8 @@ y_max = b(4);
 offset = d/2;
 x_min_offset = x_min + offset;
 y_min_offset = y_min + offset;
-x_max_offset = x_max - offset;
-y_max_offset = y_max - offset;
+x_max_offset = x_max - offset;  i can see yoru screen now
+y_max_offset = y_max - offset;  Alright, let me show you through join.me
 
 % Linear array bi-directionally by aux_step from the middle line to offset bondaries
 array_lines = 1;
@@ -97,4 +97,3 @@ end
 plot(path(:,1),path(:,2),'-')
 axis([x_min x_max y_min y_max])
 p = path;
-
